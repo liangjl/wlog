@@ -1,0 +1,2 @@
+# wlog
+simple write log
