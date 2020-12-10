@@ -1,0 +1,14 @@
+{
+  "name":"liangjl/wlog",
+  "description":"simple write log",
+  "author":[
+    {
+      "name":"liang ji lin",
+      "email":"liangjl21st@163.com",
+      "role":"Developer"
+    }
+  ],
+  "require":{
+    "php":">=7.2"
+  }
+}
